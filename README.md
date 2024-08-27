@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bpariega
+- 👋 Hi, I’m Bill!
 - 👀 I’m interested in mobile and software development, system design, machine learning, and artifial intelligence.
 - 🌱 I’m currently learning Python, HTML, and CSS.
 - 💞️ I’m looking to collaborate on building an application that will help the transportation and medical sector.
